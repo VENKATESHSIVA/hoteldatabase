@@ -5,7 +5,7 @@ public class Rooms {
 	private String roomType;
 	private int roomCost;
 	private int hotelId;
-	
+	//haveagoodday
 	public Rooms() {
 		super();
 		// TODO Auto-generated constructor stub

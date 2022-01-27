@@ -12,7 +12,7 @@ import entity.Rooms;
 import utility.JdbcConnection;
 
 public class DaoImp implements DaoInterface{
-	
+	//vanakkam
 	public void insertIntoDB(Hotels details) throws DaoException {
 		Connection con=null;
 		PreparedStatement stmt=null;
