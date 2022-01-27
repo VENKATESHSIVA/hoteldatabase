@@ -48,7 +48,7 @@ public class HotelBooking {
 				}
 				break;
 			case 4:
-				System.out.println("Thank you for hotel booking services");
+				System.out.println("Thanks");
 				condition = false;
 				break;
 			default:
